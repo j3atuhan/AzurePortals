@@ -57,7 +57,7 @@ https://azure.microsoft.com/en-us/status/
 
 https://securitycenter.windows.com
 
-### Windows Defender ATP Other portal
+### Azure ATP Portal
 
 https://portal.atp.azure.com/
 
